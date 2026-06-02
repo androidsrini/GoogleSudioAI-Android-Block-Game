@@ -1,0 +1,6 @@
+{
+  "name": "Wood Block Puzzle",
+  "description": "A highly-polished classic wood block puzzle game (com.dxm.nopuzzle style) utilizing beautiful Woody Design, sound synthesis, level challenges, power-ups, and native C++ state verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
